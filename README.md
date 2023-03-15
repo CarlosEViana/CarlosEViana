@@ -2,10 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá!,+meu+nome+é+Carlos+Eduardo+Viana;Tenho+22+anos+;E+sou+de+Taboão+Da+Serra,+São+Paulo;+Tenho+curso+tecnólogo+em+ADS+Pela+Anhanguera;Be+Welcome!+Ao+meu+perfil+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CarlosEViana&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Carlos Eduardo Viana github status" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEViana&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
 
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=CarlosEViana&theme=gotham)
 
